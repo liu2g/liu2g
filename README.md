@@ -1,13 +1,15 @@
 ### Hello 👋
 
-I am Zuguang Liu (you can simply call me Liu). I am an engineer graduated from Electrical Engineering, Bachelor of Science program at University of Cincinnati. 
-I am currently halfway in my Master of Science program as well in the same college, with a field of study on intelligent systems.
-I have multiple field of interest including electrical engineering, computer engineering as well as AI development.
+I am Zuguang Liu (you can simply call me Liu). I am an engineer graduated from Electrical Engineering, Bachelor of Science program at University of Cincinnati, and currently in the Master of Science program in the same college. 
+My field of interest is broad, including electrical engineering, computer engineering as well as AI development.
 
-I am currently looking for any job opportunities starting July 2021, see my resume [here](https://github.com/liu2z2/resume/releases/latest).
+I am currently looking for any job opportunities starting July 2021. My resume is availble [here](https://github.com/liu2z2/resume/releases/latest).
+
+Feel free to read over and comment on my [personal github.io site](https://liu2z2.github.io/)!
+
+<a id="contact-me">Contact me: </a>
 
 - [Email](liu2z2@mail.uc.edu)
-- Phone: 513-886-6058
 - [LinkedIn](https://www.linkedin.com/in/liu-uc/)
-- [GitHub.io Page](https://liu2z2.github.io/)
 - [WeChat](https://liu2z2.github.io/images/about/wechat-qr.png)
+- Phone: 513-886-6058
