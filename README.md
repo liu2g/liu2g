@@ -7,9 +7,10 @@ I am currently looking for any job opportunities starting July 2021. My resume i
 
 Feel free to read over and comment on my [personal github.io site](https://liu2z2.github.io/)!
 
-<a id="contact-me">Contact me: </a>
 
-- [Email](liu2z2@mail.uc.edu)
-- [LinkedIn](https://www.linkedin.com/in/liu-uc/)
-- [WeChat](https://liu2z2.github.io/images/about/wechat-qr.png)
+#### <a name="contact-me" href="#contact-me"> Contact me </a>
+
+- Email: [liu2z2@mail.uc.edu](mailto:liu2z2@mail.uc.edu)
 - Phone: 513-886-6058
+- LinkedIn: [in/liu-uc](https://www.linkedin.com/in/liu-uc/)
+- WeChat: leo85811nardo(https://liu2z2.github.io/images/about/wechat-qr.png)
