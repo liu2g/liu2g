@@ -13,4 +13,4 @@ Feel free to read over and comment on my [personal github.io site](https://liu2z
 - Email: [liu2z2@mail.uc.edu](mailto:liu2z2@mail.uc.edu)
 - Phone: 513-886-6058
 - LinkedIn: [in/liu-uc](https://www.linkedin.com/in/liu-uc/)
-- WeChat: leo85811nardo(https://liu2z2.github.io/images/about/wechat-qr.png)
+- WeChat: [leo85811nardo](https://liu2z2.github.io/images/about/wechat-qr.png)
