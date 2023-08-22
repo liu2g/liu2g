@@ -1,16 +1,18 @@
 ### Hello 👋
 
-I am Zuguang Liu (you can simply call me Liu). I am an engineer graduated from Electrical Engineering, Bachelor of Science program at University of Cincinnati, and currently in the Master of Science program in the same college. 
-My field of interest is broad, including electrical engineering, computer engineering as well as AI development.
+I am Zuguang Liu (you can simply call me Liu). I am an electrical/computer engineer currently in the Master of Science program at [Bradley University](https://www.bradley.edu/). 
 
-I am currently working at [L&T Technology Service](https://www.ltts.com/) in Peoria, IL, but free to download my resume available [here](https://github.com/liu2z2/resume/releases/latest) and contact me for future job opportunities. 
+My field of interest is broad, including 
+- Electronics,
+- Robotics and intelligent systems, and
+- A little touch on software engineering
 
-Feel free to read over and comment on my [personal github.io site](https://liu2z2.github.io/)!
+Feel free to download my resume available [here](https://github.com/liu2g/resume/releases/latest) and contact me for future job opportunities. 
 
+Feel free to read over and comment on my [personal github.io site](https://liu2g.github.io/)!
 
 #### <a name="contact-me" href="#contact-me"> Contact me </a>
 
-- Email: [liu2z2@mail.uc.edu](mailto:liu2z2@mail.uc.edu)
+- Email: [leo85811nardo@protonmail.com](mailto:leo85811nardo@protonmail.com)
 - Phone: 513-886-6058
-- LinkedIn: [in/liu-uc](https://www.linkedin.com/in/liu-uc/)
-- WeChat: [leo85811nardo](https://liu2z2.github.io/images/about/wechat-qr.png)
+- LinkedIn: [in/liu-uc](https://www.linkedin.com/in/liu2g/)
