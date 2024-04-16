@@ -15,4 +15,4 @@ Feel free to read over and comment on my [personal github.io site](https://liu2g
 
 - Email: [leo85811nardo@protonmail.com](mailto:leo85811nardo@protonmail.com)
 - Phone: 513-886-6058
-- LinkedIn: [in/liu-uc](https://www.linkedin.com/in/liu2g/)
+- LinkedIn: [in/liu2g](https://www.linkedin.com/in/liu2g/)
