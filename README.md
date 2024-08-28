@@ -4,8 +4,8 @@ I am Zuguang Liu (you can simply call me Liu). I am an electrical/computer engin
 
 My field of interest is broad, including 
 - Electronics,
-- Robotics and intelligent systems, and
-- A little touch on software engineering
+- Robotics and intelligent AI systems, and
+- Low-level (embedded to OS) software engineering
 
 Feel free to download my resume available [here](https://github.com/liu2g/resume/releases/latest) and contact me for future job opportunities. 
 
