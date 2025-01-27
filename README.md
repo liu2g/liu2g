@@ -1,11 +1,6 @@
 ### Hello 👋
 
-I am Zuguang Liu (you can simply call me Liu). I am an electrical/computer engineer currently in the Master of Science program at [Bradley University](https://www.bradley.edu/). 
-
-My field of interest is broad, including 
-- Electronics,
-- Robotics and intelligent AI systems, and
-- Low-level (embedded to OS) software engineering
+I am Zuguang Liu (you can simply call me Liu). I an an Embedded Software Engineer at [Caterpillar, Inc](https://www.caterpillar.com/). I am an engineer who enjoys solving problems with programming and electronics.
 
 Feel free to download my resume available [here](https://github.com/liu2g/resume/releases/latest) and contact me for future job opportunities. 
 
